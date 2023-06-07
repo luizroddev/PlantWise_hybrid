@@ -1,4 +1,4 @@
-interface IAnalysisRequest {
-  image: string;
-  userId: number;
+export interface IAnalysisRequest {
+    image: string;
+    userId: number;
 }
